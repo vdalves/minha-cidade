@@ -27,3 +27,8 @@ Permitir relatório: O sistema possui opção de gerar relatório por período, 
 # DER 
 Acessar o link para visualizar e editar a diagramação do projeto.
 https://drive.google.com/file/d/1DIMQEsAS-FCCo3QlzPBqbelMCapehogk/view?usp=sharing
+
+# Diagrama de Processos
+Diagrama de processos criado com a ferramenta HEFLO, que permite o compartilhamento para edição entre a equipe.
+
+
