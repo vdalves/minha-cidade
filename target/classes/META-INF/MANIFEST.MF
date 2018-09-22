@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: minhacidade
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vitor
+Implementation-Vendor-Id: br.com.eddydata
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/minhacidade
+Created-By: Maven Integration for Eclipse
+
